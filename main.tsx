@@ -9,6 +9,7 @@ blog({
   favicon: "favicon.ico",
   links: [
     { title: "GitHub", url: "https://github.com/brendantang" },
+    { title: "readinglist.club", url: "https://readinglist.club/brendan" },
   ],
   // middlewares: [
 
